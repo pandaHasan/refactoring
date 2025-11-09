@@ -2,6 +2,8 @@ package theater;
 
 /**
  * Class representing a performance of a play.
+ * PlayID: String
+ * audience: int
  */
 public class Performance {
 
