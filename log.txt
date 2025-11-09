@@ -1,3 +1,4 @@
+fe73d45 Task 1.2 finished
 05eaba8 Task 1.1 Forgot to include Task 1.1
 76b0529 Fixed StatementPrinter Class
 2285936 Fixed Constants class
